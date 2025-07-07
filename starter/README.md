@@ -15,12 +15,13 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Installation
 
-1. Clone or download this repository to your local machine.
-2. Open the `index.html` file in your preferred web browser.
+1. Fork this repository to your GitHub account.Use the "Fork" button on the top right corner of the repository page.
+2. Clone your forked repository to your local machine.
+3. Open the `index.html` file in your preferred web browser.
 
 ```
-git clone https://github.com/your-username/github-copilot-starter.git
-cd github-copilot-starter
+git clone https://github.com/your-username/<<name of your forked repo>>.git
+cd <<name of your forked repo>>
 # Open index.html in your browser
 ```
 
