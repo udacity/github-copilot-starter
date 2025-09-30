@@ -1,0 +1,12 @@
+# System Files
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+
+# IDE/Editor Files
+.vscode/
+.idea/
+*.sublime-*
+*.code-workspace
