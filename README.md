@@ -8,18 +8,16 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Dependencies
 
-```
 - Modern web browser (Chrome, Firefox, Edge, etc.)
 - No additional dependencies required
-```
 
 ### Installation
 
-1. Fork this repository to your GitHub account.Use the "Fork" button on the top right corner of the repository page.
+1. Fork this repository to your GitHub account. Use the "Fork" button on the top right corner of the repository page.
 2. Clone your forked repository to your local machine.
 3. Open the `index.html` file in your preferred web browser.
 
-```
+```bash
 git clone https://github.com/your-username/<<name of your forked repo>>.git
 cd <<name of your forked repo>>
 # Open index.html in your browser
@@ -46,14 +44,12 @@ Use GitHub Copilot to refactor the code for this game to use React, NextJS, and 
 - UI colors should be visually appealing and accessible.
 - Completed and correct puzzles should display a congratulatory message with the time taken and hints used and ask for the user's name for Top 10 times.
 
-
 ## Built With
 
-* [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) - Markup for the game interface
-* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) - Styling for the game board and controls
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Game logic and board generation
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) - Markup for the game interface
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) - Styling for the game board and controls
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Game logic and board generation
 
 ## License
 
 [License](LICENSE.txt)
-`
